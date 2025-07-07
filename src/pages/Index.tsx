@@ -140,6 +140,126 @@ const deadCompanies: DeadCompany[] = [
     founded: 2008,
     shutdownYear: 2016,
     funding: "$10.5M"
+  },
+  {
+    id: 11,
+    name: "Color",
+    batch: "S11",
+    year: 2011,
+    description: "Photo sharing app with automatic organization",
+    reason: "Poor user adoption, confusing user experience, failed to differentiate from Instagram",
+    category: "Social Media",
+    founded: 2011,
+    shutdownYear: 2012,
+    funding: "$41M"
+  },
+  {
+    id: 12,
+    name: "Everpix",
+    batch: "S11",
+    year: 2011,
+    description: "AI-powered photo storage and organization service",
+    reason: "Unsustainable unit economics, high storage costs, inability to scale revenue model",
+    category: "Consumer Software",
+    founded: 2011,
+    shutdownYear: 2013,
+    funding: "$2.3M"
+  },
+  {
+    id: 13,
+    name: "Prim",
+    batch: "S12",
+    year: 2012,
+    description: "Curated shopping platform for home goods",
+    reason: "High customer acquisition costs, inventory management challenges, market timing issues",
+    category: "E-commerce",
+    founded: 2012,
+    shutdownYear: 2014,
+    funding: "$4.1M"
+  },
+  {
+    id: 14,
+    name: "Karma",
+    batch: "S11",
+    year: 2011,
+    description: "Social gifting platform for group purchases",
+    reason: "Complex user flows, low repeat usage, difficulty monetizing social gifting",
+    category: "E-commerce",
+    founded: 2011,
+    shutdownYear: 2014,
+    funding: "$8.5M"
+  },
+  {
+    id: 15,
+    name: "Plancast",
+    batch: "S09",
+    year: 2009,
+    description: "Event discovery and planning social network",
+    reason: "Low user engagement, failed to achieve viral growth, competition from Facebook Events",
+    category: "Social Media",
+    founded: 2009,
+    shutdownYear: 2012,
+    funding: "$4.8M"
+  },
+  {
+    id: 16,
+    name: "Greplin",
+    batch: "W10",
+    year: 2010,
+    description: "Personal search engine for social media and email",
+    reason: "Privacy concerns, API restrictions from major platforms, pivot attempts failed",
+    category: "Productivity",
+    founded: 2010,
+    shutdownYear: 2013,
+    funding: "$7.5M"
+  },
+  {
+    id: 17,
+    name: "DailyBooth",
+    batch: "S09",
+    year: 2009,
+    description: "Daily photo sharing social network",
+    reason: "Declining user engagement, failed mobile transition, competition from Instagram",
+    category: "Social Media",
+    founded: 2009,
+    shutdownYear: 2012,
+    funding: "$8.2M"
+  },
+  {
+    id: 18,
+    name: "Backtype",
+    batch: "S08",
+    year: 2008,
+    description: "Social media analytics and conversation tracking",
+    reason: "Acquired by Twitter but original product discontinued, team integration challenges",
+    category: "Analytics",
+    founded: 2008,
+    shutdownYear: 2014,
+    funding: "$7.1M"
+  },
+  {
+    id: 19,
+    name: "Cuil",
+    batch: "S08",
+    year: 2008,
+    description: "Search engine attempting to compete with Google",
+    reason: "Poor search quality, massive infrastructure costs, impossible competition with Google",
+    category: "Search",
+    founded: 2008,
+    shutdownYear: 2010,
+    funding: "$33M"
+  },
+  {
+    id: 20,
+    name: "Kiko",
+    batch: "S05",
+    year: 2005,
+    description: "Web-based calendar application",
+    reason: "Launched before market was ready, competition from Google Calendar, poor timing",
+    category: "Productivity",
+    founded: 2005,
+    shutdownYear: 2006,
+    funding: "$0.25M"
   }
 ];
 
