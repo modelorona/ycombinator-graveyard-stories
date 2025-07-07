@@ -260,6 +260,18 @@ const deadCompanies: DeadCompany[] = [
     founded: 2005,
     shutdownYear: 2006,
     funding: "$0.25M"
+  },
+  {
+    id: 21,
+    name: "Stitch Technologies",
+    batch: "S15",
+    year: 2015,
+    description: "Financial data integration platform for businesses",
+    reason: "Complex regulatory environment, difficulty scaling enterprise sales, technical challenges with data standardization",
+    category: "FinTech",
+    founded: 2015,
+    shutdownYear: 2019,
+    funding: "$12M"
   }
 ];
 
