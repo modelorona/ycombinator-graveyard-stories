@@ -29,7 +29,7 @@ export const HeroSection = ({ totalCompanies, totalFunding, averageLifespan }: H
               <div className="text-gray-300">Failed Companies</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6">
-              <div className="text-3xl font-bold text-orange-400">${totalFunding.toFixed(0)}M</div>
+              <div className="text-3xl font-bold text-orange-400">${(totalFunding / 1000).toFixed(1)}B</div>
               <div className="text-gray-300">Total Funding Lost</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6">
