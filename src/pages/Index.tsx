@@ -33,8 +33,8 @@ const Index = () => {
       />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
-        <div className="bg-gray-800/50 border border-gray-700 rounded-lg p-4 mb-8 text-center">
-          <p className="text-gray-400">
+        <div className="bg-blue-900/30 border border-blue-800/50 rounded-lg p-4 mb-8 text-center">
+          <p className="text-blue-200">
             This website was made for joking purposes and the data may not be entirely accurate as it was built entirely on Lovable - and who knows where Lovable gets their info from!
           </p>
         </div>
